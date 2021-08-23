@@ -1,7 +1,3 @@
-# Registro de datos en MySQL desde una GUI en TkInter
-# @autor: Magno Efren
-# Youtube: https://www.youtube.com/c/MagnoEfren
-
 import mysql.connector
 
 class Registro_datos():
